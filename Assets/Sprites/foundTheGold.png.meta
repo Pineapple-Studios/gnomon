@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: f7a18b078a60a08419c397e2c15adf57
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0001
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 977
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.46296296, y: 1.6956521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fc5fdba21dd4b468b6d3a920b29ddd
+      internalID: -224802113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0002
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1022
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 201.5, y: -147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223b128ca1b7af488c54f1a957db0ce
+      internalID: -565066914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0003
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 896
+        width: 37
+        height: 127
+      alignment: 9
+      pivot: {x: 0.47297296, y: -0.16535433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc3cf1cc19ec14c8fada090ef425af
+      internalID: 1714672328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0004
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 896
+        width: 37
+        height: 127
+      alignment: 9
+      pivot: {x: 0.47297296, y: -0.16535433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ea6c90e4373842b157195f488e8e1
+      internalID: 196942045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 133
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4924812, y: -0.27586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0434790b1cb8b59469a4b43de95754ce
+      internalID: 1709323969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 133
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4924812, y: -0.27586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9711f60293d47d4980c5d30a2ba1ce6
+      internalID: 1807807391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0007
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 262
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5019084, y: -0.30973452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b98b18cf9932b4f99aebdd8837e874
+      internalID: -948179262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0008
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 262
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5019084, y: -0.30973452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34916dbc0bce34e83701530161dcb6
+      internalID: 1133089413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 381
+        height: 134
+      alignment: 9
+      pivot: {x: 0.49737534, y: -0.104477614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af8a8368f25c4941ba5395d06560d53
+      internalID: 1439127113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 381
+        height: 134
+      alignment: 9
+      pivot: {x: 0.49737534, y: -0.104477614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991ee0ee7870c04e89a9812311bebd8
+      internalID: -714026517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 399
+        height: 245
+      alignment: 9
+      pivot: {x: 0.49498746, y: 0.39591837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ae728711a1594499095e1f4311cd0
+      internalID: 1271436982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 399
+        height: 245
+      alignment: 9
+      pivot: {x: 0.49498746, y: 0.39591837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a9463cb92d9454aa7819df922ee515
+      internalID: 1099274937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 402
+        height: 260
+      alignment: 9
+      pivot: {x: 0.50124377, y: 0.43076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60296bfb28cc2274abf1c29ab9abdab7
+      internalID: -947933643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 402
+        height: 260
+      alignment: 9
+      pivot: {x: 0.50124377, y: 0.43076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5bb81cba69dc14db5e11a25a1b80c1
+      internalID: 212907094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 397
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49496222, y: 0.41960785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62fa8f08b232e4fbf80858434f860a
+      internalID: 502896105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 397
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49496222, y: 0.41960785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e15ea4bf0adaf44bf73840fa6603a7
+      internalID: -1365122476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FOUNDTHEGOLD0017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 397
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49496222, y: 0.41960785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0548b3ccb7b57cc48b18c9b7ec9f1c39
+      internalID: -1292374491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4f7e33e51b7e0334eaabf2de4ae02354
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FOUNDTHEGOLD0001: -224802113
+      FOUNDTHEGOLD0002: -565066914
+      FOUNDTHEGOLD0003: 1714672328
+      FOUNDTHEGOLD0004: 196942045
+      FOUNDTHEGOLD0005: 1709323969
+      FOUNDTHEGOLD0006: 1807807391
+      FOUNDTHEGOLD0007: -948179262
+      FOUNDTHEGOLD0008: 1133089413
+      FOUNDTHEGOLD0009: 1439127113
+      FOUNDTHEGOLD0010: -714026517
+      FOUNDTHEGOLD0011: 1271436982
+      FOUNDTHEGOLD0012: 1099274937
+      FOUNDTHEGOLD0013: -947933643
+      FOUNDTHEGOLD0014: 212907094
+      FOUNDTHEGOLD0015: 502896105
+      FOUNDTHEGOLD0016: -1365122476
+      FOUNDTHEGOLD0017: -1292374491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

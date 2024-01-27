@@ -1,0 +1,1108 @@
+fileFormatVersion: 2
+guid: 14c53be597ee7d645aeb38a57979eb54
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gnomonwalk 020001
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 463
+        width: 113
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b2eebc2029504d9a90c54aefcb48e
+      internalID: -1237155825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020002
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 463
+        width: 113
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f3df3ba440d94184f7259a6dafee7
+      internalID: 40958056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020003
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 463
+        width: 113
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba676a5f160ee204cbeb590979b471cf
+      internalID: -853225387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 114
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632ec64961fbdaa4d956ed12cf77c18b
+      internalID: -710985619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 114
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a274ca5dc97c9e145835f09b96e4933f
+      internalID: -1777444306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 114
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0497fd7bf3ca2d444bd276d52d6253b3
+      internalID: 1636874697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020007
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 7
+        width: 109
+        height: 229
+      alignment: 9
+      pivot: {x: 0.47706422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999f24ee28097ea40a4cf112892cf0b6
+      internalID: -606527513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020008
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 7
+        width: 109
+        height: 229
+      alignment: 9
+      pivot: {x: 0.47706422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742673b11030d9048ae572cfe24a058a
+      internalID: 795942044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020009
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 7
+        width: 109
+        height: 229
+      alignment: 9
+      pivot: {x: 0.47706422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f56124e67561cf48a90a802720820ea
+      internalID: -1670216729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 110
+        height: 231
+      alignment: 9
+      pivot: {x: 0.48181817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7db22417c43714bb8a4ef22b8d57b9
+      internalID: -2044804724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 110
+        height: 231
+      alignment: 9
+      pivot: {x: 0.48181817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8294bdb1309f3974ab13255c8e422190
+      internalID: 2022372953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 110
+        height: 231
+      alignment: 9
+      pivot: {x: 0.48181817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794609860c44ac54691a6a4c7e9f9e33
+      internalID: 2036829378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020013
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 559
+        width: 113
+        height: 230
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f751005b9a2afcc4f821445886452422
+      internalID: 413906065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020014
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 559
+        width: 113
+        height: 230
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820af3a05f2304e4fba66384d30be2d1
+      internalID: 2117028499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020015
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 559
+        width: 113
+        height: 230
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bfbdaabdb81894b980ccb7e06cf7b2
+      internalID: -1884767714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020016
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 689
+        width: 114
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f852b6da440224889ea1a21bf45f6a
+      internalID: 305283631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020017
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 689
+        width: 114
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30ce797122682344b4f812a570b36d5
+      internalID: 640568406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020018
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 689
+        width: 114
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd4b5acf40ff247a12ed8682e1d37c
+      internalID: 786442788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020019
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 110
+        width: 109
+        height: 229
+      alignment: 9
+      pivot: {x: 0.47706422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356ffa0817addb4483876669e35d51a
+      internalID: 460888016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020020
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 110
+        width: 109
+        height: 229
+      alignment: 9
+      pivot: {x: 0.47706422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8adf110de411b343a05cf4fc8d1b1c6
+      internalID: 1747858304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020021
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 110
+        width: 109
+        height: 229
+      alignment: 9
+      pivot: {x: 0.47706422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b079f7a3170a0424499c0a6d5702c954
+      internalID: 401769791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020022
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 110
+        height: 231
+      alignment: 9
+      pivot: {x: 0.48181817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6419b21482dc954988f92e55aaaec70
+      internalID: 1583697519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020023
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 110
+        height: 231
+      alignment: 9
+      pivot: {x: 0.48181817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d24438d4ec7e748a2f78ed2c7fd02c
+      internalID: 1921811116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gnomonwalk 020024
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 110
+        height: 231
+      alignment: 9
+      pivot: {x: 0.48181817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3260e5b70aec14181e9bc8eb7139a0
+      internalID: -1444008877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c5fa033f908b74abbc6df3790df150
+      internalID: -442313132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d9d643ea5b2848aa4055f7fabf352
+      internalID: -1778608108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a21321a06bd14882abc4abf93cca0
+      internalID: -2006051445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020004
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 566
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f6e1f480d35143b98a9e1e953a6e1
+      internalID: 1630417428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020005
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 566
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7929c49b7b08724f8b4292d9b627b40
+      internalID: -1598316597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020006
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 566
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9360ba1f2525a0418277861a07d758c
+      internalID: -208683485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020007
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 341
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c21fbaf40aa545ab8abebbdf679e5
+      internalID: 1268431119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020008
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 341
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e09fac69848a94b8f21339a83058ea
+      internalID: -788279403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020009
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 341
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc3b8cf999fb843af6e0d8282bbe2a
+      internalID: 315192630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020010
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 334
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e06b12d7a2e174d9a60f65b48af8ca
+      internalID: 572933532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020011
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 334
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e3bdd4793cff4c975ecbac84956c1
+      internalID: 44115163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020012
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 334
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7acb00c56e7054cbaa7763d26115e7
+      internalID: -1039796063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020013
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 238
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6130962faf30a4faf49e059ce48bda
+      internalID: -1370544245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020014
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 238
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f1dda4848e11b45ac7bd8eae5aaeea
+      internalID: -1798347951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020015
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 238
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df71b4c61c11c9545be40adf2ab18ef7
+      internalID: -850552693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6069c94196b32d041b29a59ee3c53b4c
+      internalID: 314636156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa234ea05242db54daad264ca47a84b6
+      internalID: 1333219892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_blink020018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 111
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e49a1c53a2d84c843fc2f39dd2f85
+      internalID: -1301839437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thin_dead
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 909
+        width: 257
+        height: 114
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d502f28d34510e847bc97f5a6e6ca13c
+      internalID: -622023001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thin_floating
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 791
+        width: 203
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4168a332f66f2d458ae1b5bd134bd96
+      internalID: 266921770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 945ec486e59c45645b26ef80a645abcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gnomonwalk 020001: -1237155825
+      Gnomonwalk 020002: 40958056
+      Gnomonwalk 020003: -853225387
+      Gnomonwalk 020004: -710985619
+      Gnomonwalk 020005: -1777444306
+      Gnomonwalk 020006: 1636874697
+      Gnomonwalk 020007: -606527513
+      Gnomonwalk 020008: 795942044
+      Gnomonwalk 020009: -1670216729
+      Gnomonwalk 020010: -2044804724
+      Gnomonwalk 020011: 2022372953
+      Gnomonwalk 020012: 2036829378
+      Gnomonwalk 020013: 413906065
+      Gnomonwalk 020014: 2117028499
+      Gnomonwalk 020015: -1884767714
+      Gnomonwalk 020016: 305283631
+      Gnomonwalk 020017: 640568406
+      Gnomonwalk 020018: 786442788
+      Gnomonwalk 020019: 460888016
+      Gnomonwalk 020020: 1747858304
+      Gnomonwalk 020021: 401769791
+      Gnomonwalk 020022: 1583697519
+      Gnomonwalk 020023: 1921811116
+      Gnomonwalk 020024: -1444008877
+      Idle_blink020001: -442313132
+      Idle_blink020002: -1778608108
+      Idle_blink020003: -2006051445
+      Idle_blink020004: 1630417428
+      Idle_blink020005: -1598316597
+      Idle_blink020006: -208683485
+      Idle_blink020007: 1268431119
+      Idle_blink020008: -788279403
+      Idle_blink020009: 315192630
+      Idle_blink020010: 572933532
+      Idle_blink020011: 44115163
+      Idle_blink020012: -1039796063
+      Idle_blink020013: -1370544245
+      Idle_blink020014: -1798347951
+      Idle_blink020015: -850552693
+      Idle_blink020016: 314636156
+      Idle_blink020017: 1333219892
+      Idle_blink020018: -1301839437
+      thin_dead: -622023001
+      thin_floating: 266921770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

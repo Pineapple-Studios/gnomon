@@ -1,0 +1,23 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprites/allAssets.tpsheet
+- Assets/Sprites/default.tpsheet
+- Assets/Sprites/fat.tpsheet
+- Assets/Sprites/foundTheGold.tpsheet
+- Assets/Sprites/thin.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprites/allAssets.png
+- Assets/Sprites/default.png
+- Assets/Sprites/fat.png
+- Assets/Sprites/foundTheGold.png
+- Assets/Sprites/thin.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
